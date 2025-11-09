@@ -37,4 +37,5 @@
         </div>
     </div>
     <br>
+    <p class="text-gray-300">This site uses <a href="https://umami.is" target="_blank">umami analytics</a>, a privacy-focused self-hosted analytics option. For transparency, you can view the stats <a href="https://umami.dour.com/share/JT1iWD6PKJkpN7x0" target="_blank">here.</a></p>
 </main>
