@@ -11,7 +11,7 @@
         <div>
             <b>forum posts</b>
             <br>
-            <code>https://short.dour.com/post/postId</code>
+            <code>https://short.dour.com/p/postId</code>
             <br>
             <a href="/post/8812507" target="_blank">try it</a>
             <br>
@@ -20,7 +20,7 @@
         <div>
             <b>forum topics</b>
             <br>
-            <code>https://short.dour.com/topic/topicId</code>
+            <code>https://short.dour.com/t/topicId</code>
             <br>
             <a href="/topic/849588" target="_blank">try it</a>
             <br>
@@ -29,7 +29,7 @@
         <div>
             <b>wiki pages</b>
             <br>
-            <code>https://short.dour.com/wiki/pageName</code>
+            <code>https://short.dour.com/w/pageName</code>
             <br>
             <a href="/wiki/Necroposting" target="_blank">try it</a>
             <br>
