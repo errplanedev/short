@@ -13,7 +13,7 @@
             <br>
             <code>https://s.dour.com/p/postId</code>
             <br>
-            <a href="/post/8812507" target="_blank">try it</a>
+            <a href="/p/8812507" target="_blank">try it</a>
             <br>
             <br>
         </div>
@@ -22,7 +22,7 @@
             <br>
             <code>https://s.dour.com/t/topicId</code>
             <br>
-            <a href="/topic/849588" target="_blank">try it</a>
+            <a href="/t/849588" target="_blank">try it</a>
             <br>
             <br>
         </div>
@@ -31,7 +31,7 @@
             <br>
             <code>https://s.dour.com/w/pageName</code>
             <br>
-            <a href="/wiki/Necroposting" target="_blank">try it</a>
+            <a href="/w/Necroposting" target="_blank">try it</a>
             <br>
             <br>
         </div>
