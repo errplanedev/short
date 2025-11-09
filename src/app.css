@@ -1,5 +1,9 @@
 @import 'tailwindcss';
 
+::selection {
+    @apply bg-gray-200;
+}
+
 h1 {
     @apply text-3xl font-semibold;
 }
