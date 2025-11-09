@@ -9,5 +9,5 @@
     <h2>how to use</h2>
     <code>https://short.dour.com/post/postId</code>
     <br>
-    <a href="/post/8812470" target="_blank">try it</a>
+    <a href="/post/8812507" target="_blank">try it</a>
 </main>
